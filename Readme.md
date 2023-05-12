@@ -1,6 +1,6 @@
 # Welcome to this small project for a battle pokemons;
 
-For install this project you don't need something as well, just download or clone the repository.
+To install this project you don't need something as well, just download or clone the repository.
 
 #TOOLS
 
